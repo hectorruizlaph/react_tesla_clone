@@ -1,6 +1,6 @@
 # REACT_TESLA_CLONE ![Tesla_logo](https://user-images.githubusercontent.com/72607039/145508558-2eaff84c-7af9-43bc-99f1-ad19668b1c04.png)
 
-An Optimized Tesla Clone with React JS. Built only for study purposes
+An Optimized Tesla Clone with React JS.
 
 ## 🧪 technologies
 
