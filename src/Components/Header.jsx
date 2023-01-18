@@ -28,7 +28,7 @@ function Header() {
         <Gitme>
           <span> UI Clone </span>
           <a
-            href="https://github.com/BinaryLeo/REACT_TESLA_CLONE"
+            href="https://github.com/hectorruizlaph/react_tesla_clone"
             target="_blank"
             rel="noopener noreferrer"
           >
